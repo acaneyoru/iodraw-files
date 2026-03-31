@@ -110,10 +110,13 @@
           <mxGeometry x="417.06" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kT4jRh5jhl-3trTuZFxi-18" value="MedHyper&lt;div&gt;Mamba&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="906" y="381" width="88" height="30" as="geometry" />
+          <mxGeometry x="509" y="385" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kT4jRh5jhl-3trTuZFxi-19" value="original" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="371" width="88" height="30" as="geometry" />
+          <mxGeometry x="609" y="375" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kT4jRh5jhl-3trTuZFxi-20" value="BraTS19_HGG_2013_20_1" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="738.1837383069492" y="412.6522955643504" width="176" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
