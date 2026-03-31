@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="nHbyEnwr-zscOazki-C1">
-    <mxGraphModel dx="1115" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="1011" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,14 +115,14 @@
         <mxCell id="kT4jRh5jhl-3trTuZFxi-19" value="original" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="609" y="375" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kT4jRh5jhl-3trTuZFxi-20" value="BraTS19_HGG&#xa;2013_20_1" style="text;whiteSpace=wrap;rotation=-90;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="30.51" y="42.5" width="109" height="36" as="geometry" />
+        <mxCell id="kT4jRh5jhl-3trTuZFxi-20" value="BraTS19_HGG&#xa;2013_20_1" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="10" y="43" width="109" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="kT4jRh5jhl-3trTuZFxi-21" value="BraTS20_004" style="text;whiteSpace=wrap;rotation=-90;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="35.00000000000001" y="162" width="109" height="36" as="geometry" />
+        <mxCell id="kT4jRh5jhl-3trTuZFxi-21" value="BraTS20_004" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="14.490000000000006" y="162.5" width="109" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="kT4jRh5jhl-3trTuZFxi-22" value="BraTS2021_00059" style="text;whiteSpace=wrap;rotation=-90;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="35.00000000000001" y="292" width="109" height="36" as="geometry" />
+        <mxCell id="kT4jRh5jhl-3trTuZFxi-22" value="BraTS2021_00059" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="17.000000000000007" y="319" width="109" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
