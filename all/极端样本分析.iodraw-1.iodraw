@@ -116,13 +116,13 @@
           <mxGeometry x="609" y="375" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kT4jRh5jhl-3trTuZFxi-20" value="BraTS19_HGG&#xa;2013_20_1" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1" y="43" width="109" height="36" as="geometry" />
+          <mxGeometry x="12" y="43" width="109" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kT4jRh5jhl-3trTuZFxi-21" value="BraTS20_004" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1" y="162.5" width="109" height="36" as="geometry" />
+          <mxGeometry x="17" y="162.5" width="109" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kT4jRh5jhl-3trTuZFxi-22" value="BraTS2021_00059" style="text;whiteSpace=wrap;rotation=-90;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1" y="319" width="109" height="36" as="geometry" />
+          <mxGeometry x="17" y="319" width="109" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
