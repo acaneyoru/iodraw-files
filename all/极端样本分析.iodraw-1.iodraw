@@ -121,6 +121,9 @@
         <mxCell id="kT4jRh5jhl-3trTuZFxi-21" value="BraTS20_004" style="text;whiteSpace=wrap;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="35.00000000000001" y="162" width="91" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="kT4jRh5jhl-3trTuZFxi-22" value="BraTS20_004" style="text;whiteSpace=wrap;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="35.00000000000001" y="292" width="91" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
