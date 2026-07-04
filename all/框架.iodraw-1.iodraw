@@ -58,8 +58,8 @@
         <mxCell id="S8loI5QHSoAxGu9jZiwC-33" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 30px;&quot;&gt;CFB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="109" y="595" width="75" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="S8loI5QHSoAxGu9jZiwC-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="157" y="683" width="120" height="80" as="geometry" />
+        <mxCell id="S8loI5QHSoAxGu9jZiwC-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="657" width="66" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
