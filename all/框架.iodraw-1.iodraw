@@ -56,10 +56,10 @@
           <mxGeometry x="99" y="575" width="772" height="178" as="geometry" />
         </mxCell>
         <mxCell id="S8loI5QHSoAxGu9jZiwC-33" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 30px;&quot;&gt;CFB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="109" y="595" width="75" height="48" as="geometry" />
+          <mxGeometry x="105.87" y="581" width="75" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="S8loI5QHSoAxGu9jZiwC-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="127.74" y="643" width="31.26" height="91" as="geometry" />
+        <mxCell id="S8loI5QHSoAxGu9jZiwC-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flipH=1;size=26;" vertex="1" parent="1">
+          <mxGeometry x="159" y="625" width="42" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
