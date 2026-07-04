@@ -117,7 +117,7 @@
         <mxCell id="S8loI5QHSoAxGu9jZiwC-61" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="573" width="75" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="S8loI5QHSoAxGu9jZiwC-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;points=[[0,0,0,0,0],[0,0,0,0,36],[0,0,0,10,46],[0,0,0,20,56],[0,0,0,27.5,0],[0,0,0,47.5,56],[0,0,0,55,0],[0,0,0,65,10],[0,0,0,75,20],[0,0,0,75,38],[0.13,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+        <mxCell id="S8loI5QHSoAxGu9jZiwC-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;points=[[0,0,0,0,0],[0,0,0,0,36],[0,0,0,10,46],[0,0,0,20,56],[0,0,0,27.5,0],[0,0,0,47.5,56],[0,0,0,55,0],[0,0,0,65,10],[0,0,0,75,20],[0,0,0,75,38],[0.19,0.54,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
           <mxGeometry x="501" y="670" width="75" height="56" as="geometry" />
         </mxCell>
       </root>
