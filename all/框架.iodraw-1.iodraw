@@ -41,10 +41,7 @@
           <mxGeometry x="165" y="710.5" width="224.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="S8loI5QHSoAxGu9jZiwC-26" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=64;fillColor=#f9f7ed;strokeColor=#36393d;shadow=0;flipH=1;flipV=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="184" y="697" width="184.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S8loI5QHSoAxGu9jZiwC-28" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=64;fillColor=#f9f7ed;strokeColor=#36393d;shadow=0;flipH=1;flipV=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="194" y="707" width="184.5" height="80" as="geometry" />
+          <mxGeometry x="184" y="697" width="186" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
