@@ -29,7 +29,7 @@
           <mxGeometry x="-100.2030664926034" y="-246.06121391347222" width="115.74538552466461" height="49.11629377089028" as="geometry" />
         </mxCell>
         <mxCell id="Q5dAZRmmvFD80j1hxsBS-12" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Grad-CAM&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="-298" y="-104" width="211" height="60" as="geometry" />
+          <mxGeometry x="-298" y="-84" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
