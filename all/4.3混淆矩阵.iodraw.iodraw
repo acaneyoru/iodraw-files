@@ -7,21 +7,6 @@
         <mxCell id="bucJvEA2iiIYsYenPvNr-67" value="&lt;span style=&quot;font-family: Georgia; font-size: 80px;&quot;&gt;Anterior Horn&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="-1360.5" y="2036" width="525" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="XDlLtWN_DTXrNdJLaA8z-6" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Posterior Horn&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="-524.5" y="2036" width="551" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="XDlLtWN_DTXrNdJLaA8z-8" value="&lt;span style=&quot;font-family: Georgia; font-size: 80px;&quot;&gt;(b)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="-1159" y="3482" width="123" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="XDlLtWN_DTXrNdJLaA8z-10" value="&lt;span style=&quot;font-family: Georgia; font-size: 80px;&quot;&gt;(d)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="-310.5" y="3480" width="124" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="XDlLtWN_DTXrNdJLaA8z-15" value="&lt;span style=&quot;font-family: Georgia; font-size: 80px;&quot;&gt;(f)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="548" y="3485.5" width="104" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="XDlLtWN_DTXrNdJLaA8z-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Alzubaidi_Fetal_Brain&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="184.5" y="2036" width="830" height="108" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
