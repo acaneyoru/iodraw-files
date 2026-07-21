@@ -7,8 +7,8 @@
         <mxCell id="vbzTNzp25rH4JXgh_5bu-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Fetal Brain Biometry&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-430" width="758" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="vbzTNzp25rH4JXgh_5bu-2" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;thalamic&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="-160.5" y="76" width="210" height="72" as="geometry" />
+        <mxCell id="vbzTNzp25rH4JXgh_5bu-2" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Georgia&quot;&gt;thalamic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="-141.5" y="82" width="172" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vbzTNzp25rH4JXgh_5bu-3" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;ventricular&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="29.5" y="76" width="260" height="72" as="geometry" />
