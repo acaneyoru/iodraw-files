@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vbzTNzp25rH4JXgh_5bu-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Posterior Horn&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="-430" width="551" height="108" as="geometry" />
+        <mxCell id="vbzTNzp25rH4JXgh_5bu-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Fetal Brain Biometry&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="-430" width="758" height="108" as="geometry" />
         </mxCell>
         <mxCell id="vbzTNzp25rH4JXgh_5bu-2" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;LAHD&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="-135.5" y="76" width="160" height="72" as="geometry" />
