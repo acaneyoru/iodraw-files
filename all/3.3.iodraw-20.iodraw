@@ -8,7 +8,7 @@
           <mxGeometry x="-2447" y="4" width="5096" height="3368" as="geometry" />
         </mxCell>
         <mxCell id="AaQf-611JQlLWrrOW0yV-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=8;fillColor=#D9EBFD;" parent="1" vertex="1">
-          <mxGeometry x="-2446" y="8" width="1237" height="565" as="geometry" />
+          <mxGeometry x="-2446" y="8" width="1444" height="565" as="geometry" />
         </mxCell>
         <mxCell id="AqB_mXLh7Kin0gXuqHKn-126" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;size=29;strokeWidth=3;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
           <mxGeometry x="308" y="2077" width="74" height="166" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="588.5" y="2106" width="74" height="166" as="geometry" />
         </mxCell>
         <mxCell id="AaQf-611JQlLWrrOW0yV-57" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 230px;&quot;&gt;&lt;i style=&quot;&quot;&gt;ATG-Mamba&lt;/i&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 230px;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 230px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Block&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2499" y="15" width="1374" height="565" as="geometry" />
+          <mxGeometry x="-2405" y="11" width="1374" height="565" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
