@@ -175,8 +175,8 @@
         </mxCell>
         <mxCell id="94Qgd2qKyclceunPwUxA-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=317.5;entryDy=174;entryPerimeter=0;strokeColor=default;strokeWidth=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.83;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2534" y="375" as="sourcePoint" />
-            <mxPoint x="-2533" y="290" as="targetPoint" />
+            <mxPoint x="-2466" y="54" as="sourcePoint" />
+            <mxPoint x="-2465" y="-31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
